@@ -25,7 +25,7 @@ This is a simple search engine using Python Flask framework.
 
 > apt-get install git -y
 
-> git clone https://github.com/hackyshadab/Brutexsha.git
+> git clone https://github.com/hackyshadab/search-engine.git
 
 > cd search-engine
 
